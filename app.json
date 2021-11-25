@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "rn-mygoals",
-    "slug": "rn-mygoals",
+    "name": "My Goals",
+    "slug": "my-goals",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "https://cdn-icons.flaticon.com/png/512/2838/premium/2838634.png?token=exp=1637811950~hmac=ba4557b013733eca5ef1c28364acd437",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Add,  read, and delete your goals."
   }
 }
