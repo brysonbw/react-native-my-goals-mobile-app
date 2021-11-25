@@ -4,6 +4,8 @@ Anonymous users can add, read, and delete goals.
 
 Technologies, Frameworks, & Languages:
 React Native
+React
+JavaScript
 CSS
 Expo/Expo-Cli
 
