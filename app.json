@@ -4,7 +4,7 @@
     "slug": "my-goals",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "https://cdn-icons.flaticon.com/png/512/2838/premium/2838634.png?token=exp=1637811950~hmac=ba4557b013733eca5ef1c28364acd437",
+    "icon": "./assets/mygoals-logo.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -21,7 +21,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/mygoals-logo.png",
         "backgroundColor": "#FFFFFF"
       }
     },
